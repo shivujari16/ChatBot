@@ -1,0 +1,1202 @@
+{
+  "intents": [
+    {
+      "tag": "marksheet",
+      "patterns": [
+        "How do I get my name corrected in the mark sheet?",
+        "What is the procedure to get my name corrected in the mark sheet?",
+        "How to correct my name in the mark sheet?",
+        "How to change name in the mark sheet?",
+        "How can I correct my name in marksheet?",
+        "The marksheet contains wrong name of me, what to do?",
+        "My name in marksheet was written wrong, now what to do?",
+        "I want to change my name in marksheet.",
+        "I want to change my name in marksheet how to do that?",
+        "I want to change my name in marksheet, what is procedure for that?",
+        "Can you please tell me how to change my name in marksheet?",
+        "Can u please tell me how to correct my name in marksheet?",
+        "can u plz tell me how to correct my name in marksheet?",
+        "I want name correction in marksheet.",
+        "I want to correct my name in marksheet.",
+        "I want to correct my name in marksheet how to do that?",
+        "I want name correction marksheet, what is procedure of that?",
+        "can you please tell me procedure of name correction in marksheet?",
+        "can u tell me procedure of name correction in marksheet?",
+        "can u plz tell me procedure of name correction in marksheet?",
+        "How can I change my name in marksheet?",
+        "My name is wrong in markshhet how to change that?",
+        "My name is wrong in marksheet how can I chnage that?",
+        "My name is written wrong in marksheet now what should I do?",
+        "What is procedure of name correction in marksheet?",
+        "What is the procedure to change my name in `mar`ksheet?",
+        "Tell me the procedure of name correction in marksheet.",
+        "Tell me the procedure of name change in marksheet.",
+        "What to do for the duplicate mark sheet?",
+        "How to get duplicate marksheet?",
+        "How to get duplicate mark sheet?",
+        "I want duplicate mark sheet, what is the process for that?",
+        "I need a duplicate marksheet",
+        "What is procedure to get duplicate marksheet",
+        "Can you get duplicate marksheet",
+        "How to get duplicate marksheet from college",
+        "How to get duplicate marksheet online",
+        "How to get duplicate marksheet from gujarat university online",
+        "How to get duplicate marksheet from gujarat university",
+        "How to get duplicate marksheet",
+        "Can we get duplicate marksheet online",
+        "How can i get duplicate marksheet in gujarat university"
+      ],
+      "responses": [
+        ["marksheet","Name correction","Duplicate marksheet"]
+      ]
+    },
+    {
+      "tag": "fee",
+      "patterns": [
+        "I have paid fees in the wrong category. What to do?",
+        "I have paid fees in wrong category then how to refund the fees?",
+        "I paid my fees in different branch, what to do?",
+        "at time of paying fees, I paid in different branch, what should I do?",
+        "I was paying fees for GTU exam, but paid in VGEC term fee category, now what to do?",
+        "I had to pay in non-tfws category but paid my fees in tfws category, what to do?",
+        "I paid in tfws category instead of non-tfws category, now what to do?",
+        "I paid in general account instead of term fees category, what to do?",
+        "I have paid fees in rong category now what to do?",
+        "while paying the fees of the college I paid in wrong category what can I do now?",
+        "while paying fees of vgec college I paid fees in wrong category what to do now?",
+        "while paying the fees of the collage I paid in wrong category what can I do now?",
+        "while paying fees of vgec collage I paid fees in wrong category what to do now?",
+        "Instead of paying fees in term fees category,I paid in general category now what to do?",
+        "Instead of paying fees in term fees category,I paid in wrong category now what to do?",
+        "Instead of paying fees in term fees category,I paid in wrong category now what to do?",
+        "Instead of paying fees in non-tfws category ,I paid in tfws category now what to do?",
+        "Instead of paying fees in non-tfws category,I paid in general category now what to do?",
+        "I had done mistake in paying fees in wrong category can I change that now?",
+        "I had done mistake of paying fees in wrong category can I now cahnge that?",
+        "Is it possible to change if I had paid fees in wrong category?",
+        "Can it be possible to change if paid fees in wrong category?",
+        "I was paying fees for term fee category, but paid in GTU exam, now what to do?",
+        "while paying the hostel fees I paid in wrong category is it possible to change?",
+        "While paying hostel fees of VGEC i paid in wrong category can I change now?",
+        "I have paid fees in the wrong category, now What to do?",
+        "I have paid fees in the wrong category, now What can i do?",
+        "I have paid fees in wrong category then how to get refund of fees?",
+        "I paid my fees in different branch, what can i go now?",
+        "at time of paying fees, I paid in different branch, what could I do?",
+        "I was paying fees for GTU exam, but paid in VGEC term fee category, now what should i do?",
+        "I was paying fees for GTU exam, but paid in VGEC term fee category, now what can i do for that?",
+        "I had to pay in non-tfws category but paid my fees in tfws category, now what to do?",
+        "I had to pay in non-tfws category but paid my fees in tfws category, now what can i do?",
+        "I paid in tfws category instead of non-tfws category, now what should i do?",
+        "I paid in general account instead of term fees category, what can I do for that?",
+        "How do I process the refund of fees?",
+        "I have paid fees in wrong section then how to refund those fees?",
+        "My money for fees were deducted twice, how to get refund?",
+        "I paid fees twice by mistake, how to get refund?",
+        "My bank statement says that my fees were deducted twice, how to get refund for that?",
+        "My account balance says that the amount for fees were debited twice, now what to do?",
+        "How do I get the refund of fees?",
+        "By mistake I have paid fees in wrong section then how to get refund?",
+        "If I have paid fees in wrong category then how to get refund?",
+        "If I have paid fees in wrong section then how to get refund?",
+        "I want refund of my fees as I have paid in wrong category?",
+        "I have paid my fees in wrong category, now i want refund",
+        "I have paid my fees in wrong section now i want refund , what is process of that?",
+        "What is the process if by mistake student paid fees in wrong category?",
+        "what is the process if by mistake student paid fees in wrong section?",
+        "what is the procedure if by mistake student has paid fees in wrong category?",
+        "what is the procedure if by mistake student has paid fees in wrong section?",
+        "How to get refund of fees if student has paid fees in wrong section?",
+        "How to get refund of fees if student has paid fees in wrong category?",
+        "I want refund as my money was deducted twice?",
+        "To get refund of fees what is the process ?",
+        "to get refund of fees what is the procedure?",
+        "I have paid lesser fees than mentioned, what to do now?",
+        "I paid less fees, what to do now?",
+        "I paid less fees, what is the procedure to pay the remaining fees?",
+        "For this sem, I paid less fee, now what to do?",
+        "For GTU exam, I paid less fee, what to do now?",
+        "I paid less fees, what to do?",
+        "I have entered wrong information",
+        "I have entered wrong details",
+        "by mistake I have entered wrong information",
+        "I have entered incorrect enrollment no. while paying the fees, what to do now?",
+        "I have entered incorrect branch while paying the fees, what to do now?",
+        "I had written wrong enrollment no while paying fees, now what to do?",
+        "I had written wrong phone no while paying fees, what should I do now?",
+        "I had written wrong email id while paying fees, what to do now?",
+        "I had selected wrong branch, what to do?",
+        "Entered incorrect branch while paying fees what to do?",
+        "by mistake entered wrong branch paying fees what can i do?",
+        "by mistake entered wrong enrollment no. paying fees what can i do?",
+        "by mistake entered wrong phone no paying fees what can i do?",
+        "by mistake entered wrong email id paying fees what can i do?",
+        "by mistake selected wrong branch paying fees what can i do?",
+        "I had done mistake in entering branch name how can I change now?",
+        "I had done mistake in entering enrollment no how can I change now?",
+        "I had done mistake in entering phone no how can I change now?",
+        "I had done mistake in entering email id how can I change now?",
+        "I had done mistake in entering some details while paying fees, how can I change now?",
+        "I had done mistake in selecting branch name how can I change now?",
+        "I had done mistake in selecting  enrollment no how can I change now?",
+        "I had done mistake in selecting phone no how can I change now?",
+        "I had done mistake in selecting email id how can I change now?",
+        "I had done mistake in selecting some details while paying fees, how can I change now?",
+        "while paying fees I had entered incorrect information what to do now?",
+        "while paying the college fees I have entered incorrect details what to do now?",
+        "what to do if there is any mistake while paying fees?",
+        "what to do if i had entered incorrect details while paying fees?",
+        "while paying fees I had entered incorrect details what to do?",
+        "How to pay the fees online?",
+        "I need to pay fees online, how can I do that?",
+        "How to pay online fees?",
+        "What is the process for paying fees online?",
+        "What is the procedure for the online payment of fees?",
+        "How can I pay my fees online?",
+        "How to pay fees online?",
+        "I want to pay my fee online how to do that?",
+        "I want to pay my fees online what is the process?",
+        "I want to pay my fees online then what is the procedure?",
+        "If i want to pay my fees online then how can i do that?",
+        "If i want to pay my fees online then which steps i need to follow?",
+        "what are steps to pay fees online?",
+        "what is the process to pay fees online?",
+        "what is procedure to pay fees online?",
+        "where I can pay my fees online?",
+        "how to do payment of fees online?",
+        "how to perform payment of fees online?",
+        "is there any thing required to pay fees online?",
+        "any requirement to pay fees online?",
+        "tell me how to pay fees online?",
+        "tell me how to process for the online fees payment?",
+        "can you me what is exact process to pay my fees online?"
+      ],
+      "responses": [
+        ["fee","College Fee","Exam Fee","Paid Less Fee","Entered incorrect info","Online process for paying fees","Paid fees in wrong category"]
+      ]
+    },
+    {
+      "tag": "placement",
+      "patterns": [
+        "Give me placement information",
+        "give us placement details",
+        "Past placements",
+        "what are the placement activities?",
+        "what are the placement facilities",
+        "which companies are coming for placement",
+        "Give me percentage ratio of placement",
+        "Give me computer department placement details",
+        "Give me civil department placement details",
+        "Give me power department placement details",
+        "Give me IT department placement details",
+        "Give me mechanical department placement details",
+        "Give me electrical department placement details",
+        "Give me IC department placement details"
+      ],
+      "responses": [
+        "placement link"
+      ]
+    },
+    {
+      "tag": "Student_section",
+      "patterns": [
+        "Where is STS?",
+        "where is student section?",
+        "Is there student section?",
+        "what are the facilities provided by student section?",
+        "How to use student section?",
+        "is there STS portal?",
+        "student section facilities?",
+        "STS portal"
+      ],
+      "responses": [
+        "STS portal info"
+      ]
+    },
+    {
+      "tag": "bonafide_apply",
+      "patterns": [
+        "How do I apply for a bonafide?",
+        "I want to apply for bonafide certificate, how can I do that?",
+        "I need to have bonafide certificate, how to apply for the same?",
+        "For getting scholarship, I need bonafide, how to get it?",
+        "I have to apply for bonafide certificate, how can I do that?",
+        "How to apply for a bonafide certificate?",
+        "I want to apply for bonafide,how to apply for that?",
+        "How to apply for bonafide?",
+        "I need bonafide certificate , how do I apply for it?",
+        "I need bonafide certificate, how do I apply for it?",
+        "I need bonafide,how can I apply?",
+        "I want bonafide certificate for getting scholarship, how do I apply for that?",
+        "I want bonafide certificate for getting scholarship, how to apply for that?",
+        "I want bonafide certificate for getting scholarship, how can I  apply for that?",
+        "I want bonafide certificate for getting scholarship, what is the process to  apply for that?",
+        "what is the process of getting bonafide certificate?",
+        "what is the procedure of getting bonafide certificate?",
+        "what is the exact process of doing application for bonafide certificate?",
+        "process of application for bonafide certificate.",
+        "please explain of getting bonafide certificate from college.",
+        "I want bonafide certificate how to do?",
+        "I want bonafide how to get that?",
+        "I want certificate of bonafide how to get that?",
+        "I want certificate of bonafide how to apply for the same?"
+      ],
+      "responses": [
+        "go and check at student portal"
+      ]
+    },
+    {
+      "tag": "admission_cancel",
+      "patterns": [
+        "Cancellation of admission",
+        "I want to cancel my admission, how should I do the same?",
+        "I got admission in another college in reshuffling round, how to cancel my admission?",
+        "I got admission in another college in online round, how to cancel my admission?",
+        "I got admission in another college in offline round, how to cancel my admission?",
+        "I want to cancel my admission from vgec, what is the procedure for that?",
+        "I want to cancel my admission in vgec, what is the process?"
+      ],
+      "responses": [
+        "cancel your admission"
+      ]
+    },
+    {
+      "tag": "detention_after_process",
+      "patterns": [
+        "The process for resuming the study after the detention period is over.",
+        "What is the process after detention is over?",
+        "My detention is over. Now, what to do?",
+        "My detention is over, now what to do?",
+        "How to resume studying in college after detention is over?",
+        "My detention is completed.what to do?",
+        "My detention is done now what to do?",
+        "I want to resume my study,my detention is over.",
+        "How to resume my studies as my detention is over?",
+        "How to resume studies when detention period over?",
+        "Please explain the process after detention is over.",
+        "Explain the process after detention period is over.",
+        "What is the process of resuming the studies when detention period is over?",
+        "what is the procedure of resuming studies after detention period completion?",
+        "what is the procedure after completion of detention period?",
+        "How to resume studies after detention period?",
+        "Resuming studies process after detention period?",
+        "Resuming studies procedure after detention period?",
+        "My detention is completed.Now what to do?",
+        "My detention is completed, now what to do?",
+        "what is the way to resume studies after detention period?",
+        "what is the way after detention period?",
+        "what is the way to resume studies in college after detention period?",
+        "what is the process of resuming studies in college after detention period?",
+        "explain the process of resuming studies in college after detention period."
+      ],
+      "responses": [
+        "continue your study"
+      ]
+    },
+    {
+      "tag": "scholarship",
+      "patterns": [
+        "How to get scholarship?",
+        "I want a scholarship, how to get it?",
+        "How can I get my scholarship?",
+        "I want details regarding different scholarships available, from where can I get information?",
+        "I want details regarding different scholarships available, from where can I get information regarding scholarships?",
+        "How can i get scholarship?",
+        "I want a scholarship, how to get that?",
+        "To get a scholarship how to apply for it?",
+        "To get a scholarship how to apply for that?",
+        "I want information regarding scholarship.",
+        "can you tell me regarding different scholarship available in college?",
+        "can u tell me regarding different scholarship available in college?",
+        "can you provide me the details of different scholarship?",
+        "can u provide me the details of different scholarship?",
+        "where can i get information regarding scholarship?",
+        "I want to know about scholarship",
+        "i want to know about different scholarships available in college",
+        "give me details of scholarship",
+        "give me the information regarding scholarship",
+        "can you give me the details of scholarship",
+        "can you give me details how to apply for scholarship?",
+        "can you please tell me how to apply for scholarship?",
+        "can you give me contact details for scholarship",
+        "i want contact details for scholarship",
+        "To whom i should contact for scholarship?",
+        "Please provide contact details for scholarship",
+        "To whom to contact for scholarship query?",
+        "how to contact to the faculty for scholarship query?",
+        "for scholarship query how to contact to faculty?",
+        "for scholarship whom to contact?",
+        "for scholarship which faculty to contact?",
+        "for scholarship queries whom to contact?",
+        "in which block to go for scholarship queries?",
+        "where to go in college for scholarship questions?",
+        "which faculty to contact for scholarship queries?",
+        "for scholarship information which faculty to contact?",
+        "for scholarship information which faculty to ask?",
+        "which faculty to ask for scholarship queries?",
+        "which faculty to inquire for scholarship?",
+        "faculty contact for scholarship information",
+        "which faculty contact for scholarship information?",
+        "what is the maid id of faculty for scholarship queries?",
+        "maid id to contact faculty for scholarship queries",
+        "for different types of scholarship whom to contact?",
+        "for different categories of scholarship whom to contact?",
+        "I need to know about scholarship, whom should I contact?",
+        "I want to know about scholarship, whom should I contact?"
+      ],
+      "responses": [
+        ["scholarship","Scholarship type","Contact details"]
+      ]
+    },
+    {
+      "tag": "greeting_hello",
+      "patterns": [
+        "Hii",
+        "Hi",
+        "Hello",
+        "Hey",
+        "Heyy",
+        "How are you?",
+        "Hii Bot",
+        "hello bot",
+        "how are you bot?",
+        "How r you bot?",
+        "How r u bot?",
+        "hello vgecbot",
+        "hii vgecbot",
+        "How are you vgecbot?",
+        "Hii i have one query",
+        "hello I have one query",
+        "Hii I have one doubt",
+        "Heyy bot",
+        "Heyy vgecbot",
+        "Heyy how are you?",
+        "Heyy how r u?",
+        "Heyy how are u?",
+        "Heyy i have one query",
+        "heyy i have one query can you please tell me how to solve that?"
+      ],
+      "responses": [
+        "hey! how can i help you?"
+      ]
+    },
+    {
+      "tag": "greeting_bye",
+      "patterns": [
+        "by",
+        "byee",
+        "bye bot",
+        "bye",
+        "Bot byeee",
+        "Thank you",
+        "Bye",
+        "Bye Bot!!",
+        "Byeee",
+        "Bye vgec bot",
+        "bye vgecbot",
+        "Bye bot thanks",
+        "bye bot thank you",
+        "bye bot thanks for your help",
+        "bye bot thank you for solving my query",
+        "thanks bot",
+        "thanks vgec bot",
+        "thanks bot for helping me",
+        "Thanks vgec bot for solving my query",
+        "thanks great to talk with you",
+        "thanks for providing the solution",
+        "thank you vgec bot",
+        "thank you bot for helping me",
+        "thank you bot for solving my query",
+        "thank u bot",
+        "thank you for help",
+        "thanks for help",
+        "thank you 4 help",
+        "thank u for helping me",
+        "thank u 4 helping me"
+      ],
+      "responses": [
+        "bye,have a nice day!"
+      ]
+    },
+    {
+      "tag": "bot_name",
+      "patterns": [
+        "Who are you?",
+        "What is your name?",
+        "Can you tell me your name?",
+        "Who am I talking to?",
+        "Are you human?"
+      ],
+      "responses": [
+        "i'm vgec bot"
+      ]
+    },
+    {
+      "tag": "name_of_principal",
+      "patterns": [
+        "what is the name of principal?",
+        "who is principal of vgec college?",
+        "who is principal of this college?",
+        "name of the principal",
+        "Principal name of this college",
+        "can you tell me the name of principal ?",
+        "Please tell me the name of the principal of this college",
+        "plz tel me name of the principal",
+        "please tell the name of principal",
+        "principal's name of college vgec",
+        "vgec college's principal name",
+        "Tell me principal's name",
+        "Tel me principal name",
+        "Tell me name of the principal of this college",
+        "tel me nam of principal",
+        "principal's name of this college",
+        "This college's principal name",
+        "Can you please tell me this college's principal name",
+        "Tell me this college's principal name",
+        "Tell the name of principal",
+        "Do you know who is the this college's principal",
+        "Do you the name of this college's principal?",
+        "Do you know who is principal?",
+        "Do you know who is principal of this vgec college?",
+        "can you please tel me who is this college's principal?",
+        "Can you plz tell me who is this college's principal?",
+        "can you please tell me principal name of this college?",
+        "can you plz tel me principal nam of this college?",
+        "Can you please tell me principal's name of vgec college?",
+        "name of principal of vgec campus",
+        "Principal's name of this vgec college",
+        "Principal's name of this vgec campus,chandkheda",
+        "principal's name of this college campus",
+        "Principal's name of this vgec campus chandkheda",
+        "vgec campus principal's name",
+        "What is the name of principal of VGEC?",
+        "Who is principal of Vishwakarma Government Engineering College?",
+        "Who is principal of VGEC?"
+      ],
+      "responses": [
+        "N.N Bhuptani"
+      ]
+    },
+    {
+      "tag": "total_branches",
+      "patterns": [
+        "How many branches are there in this college?",
+        "how many branches r there in this college?",
+        "how many branches are available in college?",
+        "how many branches r available in college?",
+        "how many branches are available in vgec college?",
+        "how many branches r available in vgec college?",
+        "can you please tell me total number of branches in this college?",
+        "can u plz tell me total number of branches in this college?",
+        "can you plz tell me total number of branches in this college?",
+        "can you please tel me total number of branches in this college?",
+        "can i know total umber of branches in this college?",
+        "can i know total number of branches in this college?",
+        "total number of branches in this college",
+        "Total number of branches in this college",
+        "In this college how many different branches are available?",
+        "different branches available in this college",
+        "in this college how many different branches r available?",
+        "in this college how many different branches are there?",
+        "In vgec how many branches are available?",
+        "in vgec how many branches r available?",
+        "How many fields are there in college?"
+
+      ],
+      "responses": [
+        "9 branches"
+      ]
+    },
+    {
+      "tag": "list_of_central_facilities",
+      "patterns": [
+        "What are the facilities of vishwakarma college?",
+        "what facilities of vgec college?",
+        "facilities of vishwakarma collage?",
+        "please tell me facilities of vgec college?",
+        "please tell me vgec facilities?",
+        "what are the main facilities vgec provide to students?",
+        "what are the facilities vgec provide?",
+        "what are the facilities vishwakarma provide?",
+        "what are the facilities college provide us?",
+        "what are the facilities collage provide?",
+        "facilities in vgec ?",
+        "facilities in vgec college?",
+        "facility there in vgec college?",
+        "what are the facility available in college?",
+        "what are the available facility?",
+        "what facility available in college?",
+        "what central facility college give us?",
+        "what central facility college provide us?",
+        "vgec provide which facility?",
+        "vishwakarma provide which basic facilities?",
+        "Give me the list of central facilities of vgec?",
+        "Give me the list of central facilities of vishwakarma?",
+        "please Give me the list of central facilities of college?"
+      ],
+      "responses": [
+        "hostel,sports"
+      ]
+    },
+    {
+      "tag": "medical_facilities",
+      "patterns": [
+        "what are the medical facility available in vgec",
+        "where to go for medicine?",
+        "venue for medical facilities?",
+        "days and time for medical facilities?",
+        "which days medical facility available?",
+        "medical facility in vgec?",
+        "medical facility in vishwakarma college?",
+        "what are medical facility available in college?",
+        "where to contact for medical facility?",
+        "where to contact for medical in college?",
+        "where to contact for medical in vgec?",
+        "where to contact for medical in vishwakarma?",
+        "what facilities are available for medical?",
+        "what facilities are available for medical in vgec",
+        "what facilities are available for medical in vishwakarma college?",
+        "where to go for medical facility?",
+        "where to go for medical facility in vgec",
+        "is medical facility available in vgec",
+        "is medical facility available in vishwakarma govt college?",
+        "please provide information of medical facility in college?"
+      ],
+      "responses": [
+        "medical facilities are available"
+      ]
+    },
+    {
+      "tag": "chemical_department_faculty",
+      "patterns": [
+        "give me the list of chemical department faculty",
+        "please provide me the list of faculty of chemical department",
+        "list of faculty of chemical engineering department",
+        "list of faculty of chemical department",
+        "faculty of chemical department",
+        "faculty of chemical engineering department",
+        "please give me the list of chemical faculty",
+        "please give list of faculty of chemical",
+        "can you please provide me the list of chemical department faculty",
+        "I want list of chemical department faculty",
+        "what are the faculty of chemical department?",
+        "what faculty in chemical department in vgec?",
+        "what faculty are there in chemical department in vgec?",
+        "faculty list of chemical department in college?",
+        "faculty list of chemical department in collage?",
+        "list of faculty of chemical in college",
+        "list of faculty of chemical in collage",
+        "faculty list of chemical engineering department",
+        "faculty list of chemical department",
+        "college faculty list of chemical department",
+        "collage faculty list of chemical engineering department"
+      ],
+      "responses": [
+        "chemical faculty name"
+      ]
+    },
+    {
+      "tag": "civil_department_faculty",
+      "patterns": [
+        "give me the list of civil department faculty",
+        "please provide me the list of faculty of civil department",
+        "list of faculty of civil engineering department",
+        "list of faculty of civil department",
+        "faculty of civil department",
+        "faculty of civil engineering department",
+        "please give me the list of civil faculty",
+        "plase give list of faculty of civil",
+        "can you please provide me the list of civil department faculty",
+        "I want list of civil department faculty",
+        "what are the faculty of civil department?",
+        "what faculty in civil department in vgec?",
+        "what faculty are there in civil department in vgec?",
+        "faculty list of civil department in college?",
+        "faculty list of civil department in collage?",
+        "list of faculty of civil in college",
+        "list of faculty of civil in collage",
+        "faculty list of civil engineering department",
+        "faculty list of civil department",
+        "college faculty list of civil department",
+        "collage faculty list of civil engineering department"
+      ],
+      "responses": [
+        "civil faculty name"
+      ]
+    },
+    {
+      "tag": "computer_department_faculty",
+      "patterns": [
+        "give me the list of computer department faculty",
+        "please provide me the list of faculty of computer department",
+        "list of faculty of computer engineering department",
+        "list of faculty of computer department",
+        "faculty of computer department",
+        "faculty of computer engineering department",
+        "please give me the list of computer faculty",
+        "plase give list of faculty of computer",
+        "can you please provide me the list of computer department faculty",
+        "I want list of computer department faculty",
+        "what are the faculty of computer department?",
+        "what faculty in computer department in vgec?",
+        "what faculty are there in computer department in vgec?",
+        "faculty list of computer department in college?",
+        "faculty list of computer department in collage?",
+        "list of faculty of computer in college",
+        "list of faculty of computer in collage",
+        "faculty list of computer engineering department",
+        "faculty list of computer department",
+        "college faculty list of computer department",
+        "collage faculty list of computer engineering department"
+      ],
+      "responses": [
+        "computer faculty name"
+      ]
+    },
+    {
+      "tag": "electrical_department_faculty",
+      "patterns": [
+        "give me the list of electrical department faculty",
+        "please provide me the list of faculty of electrical department",
+        "list of faculty of electrical engineering department",
+        "list of faculty of electrical department",
+        "faculty of electrical department",
+        "faculty of electrical engineering department",
+        "please give me the list of electrical faculty",
+        "please give list of faculty of electrical",
+        "can you please provide me the list of electrical department faculty",
+        "I want list of electrical department faculty",
+        "what are the faculty of electrical department?",
+        "what faculty in electrical department in vgec?",
+        "what faculty are there in electrical department in vgec?",
+        "faculty list of electrical department in college?",
+        "faculty list of electrical department in collage?",
+        "list of faculty of electrical in college",
+        "list of faculty of electrical in collage",
+        "faculty list of electrical engineering department",
+        "faculty list of electrical department",
+        "college faculty list of electrical department",
+        "collage faculty list of electrical engineering department"
+      ],
+      "responses": [
+        "electrical faculty name"
+      ]
+    },
+    {
+      "tag": "electronics_and_communication_department_faculty",
+      "patterns": [
+        "give me the list of electronics and communication department faculty",
+        "please provide me the list of faculty of electronics and communication department",
+        "list of faculty of electronics and communication engineering department",
+        "list of faculty of electronics and communication department",
+        "faculty of electronics and communication department",
+        "faculty of electronics and communication engineering department",
+        "please give me the list of electronics and communication faculty",
+        "please give list of faculty of electronics and communication",
+        "can you please provide me the list of electronics and communication department faculty",
+        "I want list of electronics and communication department faculty",
+        "what are the faculty of electronics and communication department?",
+        "what faculty in electronics and communication department in vgec?",
+        "what faculty are there in electronics and communication department in vgec?",
+        "faculty list of electronics and communication department in college?",
+        "faculty list of electronics and communication department in collage?",
+        "list of faculty of electronics and communication in college",
+        "list of faculty of electronics and communication in collage",
+        "faculty list of electronics and communication engineering department",
+        "faculty list of electronics and communication department",
+        "college faculty list of electronics and communication department",
+        "collage faculty list of electronics and communication engineering department"
+      ],
+      "responses": [
+        "electronics and communication faculty name"
+      ]
+    },
+    {
+      "tag": "information_technology_department_faculty",
+      "patterns": [
+        "give me the list of information technology department faculty",
+        "please provide me the list of faculty of information technology department",
+        "list of faculty of information technology engineering department",
+        "list of faculty of information technology department",
+        "faculty of information technology department",
+        "faculty of information technology engineering department",
+        "please give me the list of information technology faculty",
+        "please give list of faculty of information technology",
+        "can you please provide me the list of information technology department faculty",
+        "I want list of information technology department faculty",
+        "what are the faculty of information technology department?",
+        "what faculty in information technology department in vgec?",
+        "what faculty are there in information technology department in vgec?",
+        "faculty list of information technology department in college?",
+        "faculty list of information technology department in collage?",
+        "list of faculty of information technology in college",
+        "list of faculty of information technology in collage",
+        "faculty list of information technology engineering department",
+        "faculty list of information technology department",
+        "college faculty list of information technology department",
+        "collage faculty list of information technology engineering department"
+      ],
+      "responses": [
+        "IT faculty name"
+      ]
+    },
+    {
+      "tag": "instrumentation_and_control_department_faculty",
+      "patterns": [
+        "give me the list of instrumentation and control department faculty",
+        "please provide me the list of faculty of instrumentation and control department",
+        "list of faculty of instrumentation and control engineering department",
+        "list of faculty of instrumentation and control department",
+        "faculty of instrumentation and control department",
+        "faculty of instrumentation and control engineering department",
+        "please give me the list of instrumentation and control faculty",
+        "please give list of faculty of instrumentation and control",
+        "can you please provide me the list of instrumentation and control department faculty",
+        "I want list of instrumentation and control department faculty",
+        "what are the faculty of instrumentation and control department?",
+        "what faculty in instrumentation and control department in vgec?",
+        "what faculty are there in instrumentation and control department in vgec?",
+        "faculty list of instrumentation and control department in college?",
+        "faculty list of instrumentation and control department in collage?",
+        "list of faculty of instrumentation and control in college",
+        "list of faculty of instrumentation and control in collage",
+        "faculty list of instrumentation and control engineering department",
+        "faculty list of instrumentation and control department",
+        "college faculty list of instrumentation and control department",
+        "collage faculty list of instrumentation and control engineering department"
+      ],
+      "responses": [
+        "IC faculty name"
+      ]
+    },
+    {
+      "tag": "mechanical_engineering_department_faculty",
+      "patterns": [
+        "give me the list of mechanical department faculty",
+        "please provide me the list of faculty of mechanical department",
+        "list of faculty of mechanical engineering department",
+        "list of faculty of mechanical department",
+        "faculty of mechanical department",
+        "faculty of mechanical engineering department",
+        "please give me the list of mechanical faculty",
+        "please give list of faculty of mechanical",
+        "can you please provide me the list of mechanical department faculty",
+        "I want list of mechanical department faculty",
+        "what are the faculty of mechanical department?",
+        "what faculty in mechanical department in vgec?",
+        "what faculty are there in mechanical department in vgec?",
+        "faculty list of mechanical department in college?",
+        "faculty list of mechanical department in collage?",
+        "list of faculty of mechanical in college",
+        "list of faculty of mechanical in collage",
+        "faculty list of mechanical engineering department",
+        "faculty list of mechanical department",
+        "college faculty list of mechanical department",
+        "collage faculty list of mechanical engineering department"
+      ],
+      "responses": [
+        "mechanical faculty name"
+      ]
+    },
+    {
+      "tag": "power_electronics_department_faculty",
+      "patterns": [
+        "give me the list of power electronics department faculty",
+        "please provide me the list of faculty of power electronics department",
+        "list of faculty of power electronics engineering department",
+        "list of faculty of power electronics department",
+        "faculty of power electronics department",
+        "faculty of power electronics engineering department",
+        "please give me the list of power electronics faculty",
+        "please give list of faculty of power electronics",
+        "can you please provide me the list of power electronics department faculty",
+        "I want list of power electronics department faculty",
+        "what are the faculty of power electronics department?",
+        "what faculty in power electronics department in vgec?",
+        "what faculty are there in power electronics department in vgec?",
+        "faculty list of power electronics department in college?",
+        "faculty list of power electronics department in collage?",
+        "list of faculty of power electronics in college",
+        "list of faculty of power electronics in collage",
+        "faculty list of power electronics engineering department",
+        "faculty list of power electronics department",
+        "college faculty list of power electronics department",
+        "collage faculty list of power electronics engineering department"
+      ],
+      "responses": [
+        "power faculty name"
+      ]
+    },
+    {
+      "tag": "events",
+      "patterns": [
+        "which type of events are there in college?",
+        "what are the events held in vgec",
+        "Can you give me name of events in college",
+        "provide details of events held in college",
+        "describe the events details",
+        "is there any events held in college?",
+        "tell me events name"
+      ],
+      "responses": [
+        "events names"
+      ]
+    },
+    {
+      "tag": "lab",
+      "patterns": [
+        "Is there lab facility?",
+        "is there high tech lab in college?",
+        "How many labs are there in college?",
+        "is there computer lab in vgec?",
+        "show me labs",
+        "where is computer lab?",
+        "lab facility in college"
+      ],
+      "responses": [
+        "Yes high tech labs are there in college"
+      ]
+    },
+    {
+      "tag": "gtu_portal",
+      "patterns": [
+        "can you give me gtu portal details",
+        "i want to access gtu portal",
+        "what are the information on gtu portal",
+        "provide facilities of gtu portal",
+        "what are the facilities provided by gtu portal",
+        "how to access gtu portal",
+        "provide gtu portal functionalities",
+        "How to login on on gtu portal",
+        "gtu portal"
+      ],
+      "responses": [
+        "gtu portal"
+      ]
+    },
+    {
+      "tag": "applied_mechanics_department_faculty",
+      "patterns": [
+        "give me the list of applied mechanics department faculty",
+        "please provide me the list of faculty of applied mechanics department",
+        "list of faculty of applied mechanics engineering department",
+        "list of faculty of applied mechanics department",
+        "faculty of applied mechanics department",
+        "faculty of applied mechanics engineering department",
+        "please give me the list of applied mechanics faculty",
+        "please give list of faculty of applied mechanics",
+        "can you please provide me the list of applied mechanics department faculty",
+        "I want list of applied mechanics department faculty",
+        "what are the faculty of applied mechanics department?",
+        "what faculty in applied mechanics department in vgec?",
+        "what faculty are there in applied mechanics department in vgec?",
+        "faculty list of applied mechanics department in college?",
+        "faculty list of applied mechanics department in collage?",
+        "list of faculty of applied mechanics in college",
+        "list of faculty of applied mechanics in collage",
+        "faculty list of applied mechanics engineering department",
+        "faculty list of applied mechanics department",
+        "college faculty list of applied mechanics department",
+        "collage faculty list of applied mechanics engineering department"
+      ],
+      "responses": [
+        "applied mechanics faculty name"
+      ]
+    },
+    {
+      "tag": "science_and_humanities_department_faculty",
+      "patterns": [
+        "give me the list of science and humanities department faculty",
+        "please provide me the list of faculty of science and humanities department",
+        "list of faculty of science and humanities engineering department",
+        "list of faculty of science and humanities department",
+        "faculty of science and humanities department",
+        "faculty of science and humanities engineering department",
+        "please give me the list of science and humanities faculty",
+        "please give list of faculty of science and humanities",
+        "can you please provide me the list of science and humanities department faculty",
+        "I want list of science and humanities department faculty",
+        "what are the faculty of science and humanities department?",
+        "what faculty in science and humanities department in vgec?",
+        "what faculty are there in science and humanities department in vgec?",
+        "faculty list of science and humanities department in college?",
+        "faculty list of science and humanities department in collage?",
+        "list of faculty of science and humanities in college",
+        "list of faculty of science and humanities in collage",
+        "faculty list of science and humanities engineering department",
+        "faculty list of science and humanities department",
+        "college faculty list of science and humanities department",
+        "collage faculty list of science and humanities engineering department"
+      ],
+      "responses": [
+        "science and humanities faculty name"
+      ]
+    },
+    {
+      "tag": "list_of_branches",
+      "patterns": [
+        "Can you please tell me the list of branches available in this college?",
+        "Tell me list of branches in this college",
+        "could you please tell me the the list of branches in ths college?",
+        "could u please tell me list of branches in this college?",
+        "could you plz tell me list of branches in this college?",
+        "could you please tel me list of branches in this college?",
+        "could u plz tel me list of branches in this college?",
+        "can i know the list of all branches in this college?",
+        "list of all branches available in this college",
+        "All branch list of this college",
+        "i want to know the list of branches available in this college",
+        "Do you know the list of all branches available in this college?",
+        "I want to know about all branches available in this college",
+        "I want list of all branches of this college",
+        "Tell me list of branches available in VGEC.",
+        "List of all branches of VGEC college",
+        "List of all branches of vgec campus",
+        "can i know the list of branches of VGEC campus?",
+        "Can you tell me the list of branches available in VGEC campus?",
+        "can u tel me the list of branches available in vgec campus?",
+        "can you tel me the list of branches available in vgec campus?",
+        "I want list of branches of vgec campus",
+        "i want list of branches of vgec college",
+        "can i know about list of branches available in vgec campus?",
+        "Please tell me list of branches available in vgec college.",
+        "Please tell me list of branches available in vgec campus.",
+        "Plz tel me list of branches in vgec college",
+        "Plz tel me list of branches in vgec campus.",
+        "List branches in my college"
+      ],
+      "responses": [
+        "9 branches with name"
+      ]
+    },
+    {
+      "tag": "hostel",
+      "patterns": [
+        "Is there a boys hostel?",
+        "Is there a girls hostel?",
+        "Boys hostel is there?",
+        "Girls hostel is there?",
+        "Is there any hostel facility available?",
+        "Is there any hostel available for students those are coming from out of ahmedabad?",
+        "For outsiders any facility to stay in hostel?",
+        "Can you please tell me about hostel facility?",
+        "Can i know about hostel facility available in college?",
+        "I want to know about hostel facility",
+        "Can u tell me about hostel facility?",
+        "can u plz tell me about hostel facility?",
+        "I want to know hostel facility available in vgec campus",
+        "Is there any hostel facility available for students?",
+        "is there any hostel facility available for outsiders?",
+        "For students any hostel facility is there?",
+        "can you tell me regarding hostel facility?",
+        "I want to know hostel facility available in vgec college",
+        "How to apply for hostel?",
+        "I want to apply for hostel?",
+        "I want boys hostel details?",
+        "pleas provide me girls hostel details?",
+        "I want to know hostel timing",
+        "I want to know about mess?",
+        "I want to know about mess facilities"
+      ],
+      "responses": [
+        ["hostel","Boys hostel details","Girls hostel detail","Apply for hostel","Mess facility"]
+      ]
+    },
+    {
+      "tag": "transportation_facility",
+      "patterns": [
+        "Does vgec provide transportation?",
+        "Transportation facility provided by vgec",
+        "Is there any public transportation?",
+        "Is there any transportation facility available?",
+        "Is there any transportation facility in college?",
+        "Can you please tell me about transportation facility?",
+        "Can i know about transportation facility available in college?",
+        "I want to know about transportation facility",
+        "Can u tell me about transportation facility?",
+        "can u plz tell me about transportation facility?",
+        "I want to know transportation facility available in vgec campus",
+        "Is there any transportation facility available for students?",
+        "is there any transportation facility available for outsiders?",
+        "For students any transportation facility is there?",
+        "can you tell me regarding transportation facility?",
+        "I want to know transportation facility available in vgec college",
+        "To reach college is there any transportation facility available in college?"
+      ],
+      "responses": [
+        "BRTS for college"
+      ]
+    },
+    {
+      "tag": "mess",
+      "patterns": [
+        "Is there any mess facility available?",
+        "any mess facility for food?",
+        "is there any food facility available?",
+        "Is there any mess facility in college?",
+        "For outsiders any mess facility for food in college?",
+        "Can you please tell me about mess facility?",
+        "Can i know about mess facility available in college?",
+        "I want to know about mess facility",
+        "Can u tell me about mess facility?",
+        "can u plz tell me about mess facility?",
+        "I want to know mess facility available in vgec campus",
+        "Is there any mess facility available for students?",
+        "is there any mess facility available for outsiders?",
+        "For students any mess facility is there?",
+        "can you tell me regarding mess facility?",
+        "I want to know mess facility available in vgec college",
+        "is there any mess facility available in college?"
+      ],
+      "responses": [
+        "mess facility is there"
+      ]
+    },
+    {
+      "tag": "library",
+      "patterns": [
+        "vgec has a library?",
+        "Is there any library facility available to buy books?",
+        "Is there any library facility available for reading?",
+        "For students any library facility to read books in college ?",
+        "Can you please tell me about library facility?",
+        "Can i know about library facility available in college?",
+        "I want to know about library facility",
+        "Can u tell me about library facility?",
+        "can u plz tell me about library facility?",
+        "I want to know library facility available in vgec campus",
+        "Is there any library facility available for students?",
+        "is there any library facility available for outsiders?",
+        "For students any library facility is there?",
+        "can you tell me regarding library facility?",
+        "I want to know library facility available in vgec college",
+        "For study purpose is there any library facility available in college?",
+        "Is there any library facility available to read book in college?",
+        "Is there any library facility available to study in vgec college?",
+        "Any library facility for reading available in college?",
+        "Any library facility  to purchase new book in college?",
+        "can i know about library facility for students to read book in college?"
+      ],
+      "responses": [
+        ["library","Issue a book","Facility","Library timing"]
+      ]
+    },
+    {
+      "tag": "sports",
+      "patterns": [
+        "What are sports activities?",
+        "Is there any sports activity available?",
+        "any sports activity?",
+        "can i know about sports facility available in college?",
+        "can you tell me about sports facility available in college?",
+        "can you plz tell me about sports facility available in vgec campus?",
+        "can you tel me about sports facility available in vgec campus?",
+        "For students any sports facility in college ?",
+        "Can you please tell me about sport facility?",
+        "I want to know about sport facility",
+        "Can u tell me about sport facility?",
+        "can u plz tell me about sport facility?",
+        "I want to know sport facility available in vgec campus",
+        "Is there any sport facility available for students?",
+        "For students any sports facility is there?",
+        "can you tell me regarding sport facility?",
+        "I want to know sport facility available in vgec college",
+        "Is there any sport facility available to study in vgec college?",
+        "Which type of sport is there in college?",
+        "Which type of sports is there in college?"
+      ],
+      "responses": [
+        "Sport facility is there"
+      ]
+    },
+    {
+      "tag": "id_card",
+      "patterns": [
+        "I have lost my college id card",
+        "I have lost my college i card",
+        "where can i get duplicate id card",
+        "where can i get duplicate i card",
+        "I want duplicate id card",
+        "I want duplicate i card",
+        "What if college id card is lost",
+        "What if college i card is lost",
+        "I require college id card",
+        "I require college i card"
+        ],
+      "responses": [
+        "Check on STS"
+      ]
+    },
+    {
+      "tag": "college_information",
+      "patterns": [
+        "Information about college",
+        "want to know about college",
+        "give me information about college",
+        "Information about vgec",
+        "want to know about vgec",
+        "give me information about vgec",
+        "tell me more about college",
+        "tell me more about vgec college",
+        "basic information about college",
+        "basic information about vgec",
+        "where is college",
+        "location of college",
+        "what are the achievements of vgec",
+        "which events happens at vgec",
+        "is there NSS in college",
+        "is there NCC in college"
+      ],
+      "responses": [
+        "about page"
+      ]
+    },
+    {
+      "tag": "okay",
+      "patterns": [
+        "okay",
+        "okayss",
+        "thank you",
+        "okay thank you",
+        "okay!!",
+        "Okay",
+        "Thanks for giving me answer"
+      ],
+      "responses": [
+        "Thank you for asking me."
+      ]
+    },
+    {
+      "tag": "out_of_scope",
+      "patterns": [
+        "I want to order food",
+        "What is 2 + 2?",
+        "Who's the US President?",
+        "Who owns VGEC?",
+        "How many students are there in vgec?",
+        "How to contact principal?",
+        "How to contact HOD of computer?",
+        "Who is CEO of Google?",
+        "What is 5+2?",
+        "What is 5 + 2?",
+        "Who created Google?",
+        "what is 9+5",
+        "can you tell me what time it is",
+        "can you tell me about the temperature",
+        "can you tell me about today's weather",
+        "Tell me current time",
+        "tell me today's date",
+        "what is today's day?",
+        "how to get contact number of hod?",
+        "how to get contact number of principal",
+        "can you tell me the contact number of hod",
+        "please tell me the contact number of principal of vgec",
+        "how old hod of computer department is ?",
+        "how old principal of vgec is?"
+      ],
+      "responses": [
+        "please ask appropriate question"
+      ]
+    }
+  ]
+}
